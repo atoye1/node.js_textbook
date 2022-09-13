@@ -1,0 +1,22 @@
+{
+  "name": "node.js_textbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atoye1/node.js_textbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atoye1/node.js_textbook/issues"
+  },
+  "homepage": "https://github.com/atoye1/node.js_textbook#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}

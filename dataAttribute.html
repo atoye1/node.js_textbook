@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>data Attribute test</title>
+</head>
+
+<body>
+  <div id="target" data-age="35">
+    <div id="targetChild">
+      targetChild
+    </div>
+  </div>
+  <script>
+    $target = document.getElementById('target');
+    $target.dataset.salaryMax = 10000;
+    console.log(target.dataset.age);
+  </script>
+</body>
+
+</html>
